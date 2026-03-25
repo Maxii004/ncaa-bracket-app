@@ -76,7 +76,7 @@ export default function App() {
               style={{ height: 200, width: "auto" }}
             />
           </div>
-          <p style={{ fontSize: 11, color: T.muted, margin: "0 0 16px" }}>
+          <p style={{ fontSize: 16, color: T.text, margin: "0 0 16px" }}>
             Three perspectives — My picks, Claude's gut, and what the data says
           </p>
 
@@ -84,8 +84,8 @@ export default function App() {
           <div style={{ marginBottom: 2 }}>
             <div
               style={{
-                fontSize: 8,
-                color: T.muted,
+                fontSize: 12,
+                color: T.text,
                 letterSpacing: 2,
                 fontFamily: "monospace",
                 marginBottom: 4,
@@ -104,8 +104,8 @@ export default function App() {
           <div style={{ marginTop: 10, marginBottom: 2 }}>
             <div
               style={{
-                fontSize: 8,
-                color: T.muted,
+                fontSize: 12,
+                color: T.text,
                 letterSpacing: 2,
                 fontFamily: "monospace",
                 marginBottom: 4,
@@ -127,8 +127,8 @@ export default function App() {
           <div style={{ marginTop: 10 }}>
             <div
               style={{
-                fontSize: 8,
-                color: T.muted,
+                fontSize: 12,
+                color: T.text,
                 letterSpacing: 2,
                 fontFamily: "monospace",
                 marginBottom: 4,

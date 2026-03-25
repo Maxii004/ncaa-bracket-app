@@ -16,7 +16,7 @@ export default function SeedBadge({ seed }) {
         flexShrink: 0,
         background: bg,
         color: fg,
-        fontSize: 9,
+        fontSize: 13,
         fontWeight: 800,
         fontFamily: 'monospace',
       }}

@@ -4,7 +4,7 @@ export default function RoundLabel({ children }) {
   return (
     <div
       style={{
-        fontSize: 8,
+        fontSize: 12,
         color: T.muted,
         marginBottom: 4,
         fontFamily: 'monospace',

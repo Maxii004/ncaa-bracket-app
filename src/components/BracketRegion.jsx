@@ -11,7 +11,7 @@ export default function BracketRegion({ region, picks, accent }) {
       {/* Region label */}
       <div
         style={{
-          fontSize: 9,
+          fontSize: 13,
           letterSpacing: 3,
           fontWeight: 800,
           fontFamily: 'monospace',
@@ -101,7 +101,7 @@ export default function BracketRegion({ region, picks, accent }) {
               borderRadius: 6,
               background: `${accent}20`,
               border: `2px solid ${accent}`,
-              fontSize: 10,
+              fontSize: 14,
               fontWeight: 800,
               color: accent,
               whiteSpace: 'nowrap',

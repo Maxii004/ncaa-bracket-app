@@ -39,7 +39,7 @@ export default function FinalFour({ picks, accent, year, gender }) {
     >
       <div
         style={{
-          fontSize: 9,
+          fontSize: 13,
           letterSpacing: 3,
           color: accent,
           fontWeight: 800,
@@ -83,7 +83,7 @@ export default function FinalFour({ picks, accent, year, gender }) {
             <div>
               <div
                 style={{
-                  fontSize: 8,
+                  fontSize: 12,
                   color: T.muted,
                   fontFamily: 'monospace',
                   marginBottom: 4,
@@ -103,7 +103,7 @@ export default function FinalFour({ picks, accent, year, gender }) {
                       borderRadius: 5,
                       background: '#ffffff08',
                       border: `1px solid ${accent}40`,
-                      fontSize: 11,
+                      fontSize: 15,
                       fontWeight: 700,
                       color: T.text,
                     }}
@@ -120,7 +120,7 @@ export default function FinalFour({ picks, accent, year, gender }) {
             <div>
               <div
                 style={{
-                  fontSize: 8,
+                  fontSize: 12,
                   color: T.muted,
                   fontFamily: 'monospace',
                   marginBottom: 4,
@@ -134,7 +134,7 @@ export default function FinalFour({ picks, accent, year, gender }) {
                   borderRadius: 6,
                   background: `${accent}20`,
                   border: `1px solid ${accent}`,
-                  fontSize: 12,
+                  fontSize: 16,
                   fontWeight: 700,
                   color: accent,
                 }}
@@ -149,7 +149,7 @@ export default function FinalFour({ picks, accent, year, gender }) {
             <div>
               <div
                 style={{
-                  fontSize: 8,
+                  fontSize: 12,
                   color: T.muted,
                   fontFamily: 'monospace',
                   marginBottom: 4,
@@ -162,7 +162,7 @@ export default function FinalFour({ picks, accent, year, gender }) {
                   padding: '8px 18px',
                   borderRadius: 7,
                   background: accent,
-                  fontSize: 14,
+                  fontSize: 18,
                   fontWeight: 900,
                   color: '#000',
                   letterSpacing: 0.5,

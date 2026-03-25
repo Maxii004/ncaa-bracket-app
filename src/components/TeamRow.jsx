@@ -29,7 +29,7 @@ export default function TeamRow({ seed, team, isWinner, accent, onClick }) {
 
       <span
         style={{
-          fontSize: 10,
+          fontSize: 14,
           fontWeight: isWinner ? 700 : 400,
           color: isWinner ? accent : '#9ca3af',
           whiteSpace: 'nowrap',
@@ -42,7 +42,7 @@ export default function TeamRow({ seed, team, isWinner, accent, onClick }) {
       </span>
 
       {isWinner && (
-        <span style={{ marginLeft: 'auto', fontSize: 9, color: accent, flexShrink: 0 }}>
+        <span style={{ marginLeft: 'auto', fontSize: 13, color: accent, flexShrink: 0 }}>
           ✓
         </span>
       )}
