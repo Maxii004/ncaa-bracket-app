@@ -1,0 +1,102 @@
+{
+  "mineth": {
+    "label": "MINETH'S BRACKET",
+    "accent": "#a855f7",
+    "sub": "My picks",
+    "east": {
+      "r32": ["Duke", "TCU", "St. John's", "Kansas", "Louisville", "Michigan State", "UCLA", "UConn"],
+      "s16": ["Duke", "St. John's", "Michigan State", "UConn"],
+      "e8": ["Duke", "Michigan State"],
+      "f4": "Duke"
+    },
+    "west": {
+      "r32": ["Arizona", "Villanova", "Wisconsin", "Arkansas", "BYU", "Gonzaga", "Miami FL", "Purdue"],
+      "s16": ["Arizona", "Arkansas", "Gonzaga", "Purdue"],
+      "e8": ["Arizona", "Purdue"],
+      "f4": "Arizona"
+    },
+    "midwest": {
+      "r32": ["Michigan", "Georgia", "Texas Tech", "Alabama", "Tennessee", "Virginia", "Kentucky", "Iowa State"],
+      "s16": ["Michigan", "Texas Tech", "Tennessee", "Iowa State"],
+      "e8": ["Michigan", "Iowa State"],
+      "f4": "Michigan"
+    },
+    "south": {
+      "r32": ["Florida", "Clemson", "McNeese", "Nebraska", "N. Carolina", "Illinois", "Texas A&M", "Houston"],
+      "s16": ["Florida", "Nebraska", "Illinois", "Houston"],
+      "e8": ["Nebraska", "Houston"],
+      "f4": "Houston"
+    },
+    "finalFour": { "sf1": "Duke", "sf2": "Arizona", "sf3": "Michigan", "sf4": "Houston" },
+    "final": { "team1": "Duke", "team2": "Michigan" },
+    "champion": "Duke",
+    "rationale": "📝 Been rooting for Duke since I was a kid. I'm a sucker for a good underdog story."
+  },
+  "claude": {
+    "label": "CLAUDE'S BRACKET",
+    "accent": "#f5a623",
+    "sub": "Gut + analysis picks",
+    "east": {
+      "r32": ["Duke", "TCU", "St. John's", "Kansas", "Louisville", "Michigan State", "UCLA", "UConn"],
+      "s16": ["Duke", "Kansas", "Michigan State", "UConn"],
+      "e8": ["Duke", "UConn"],
+      "f4": "UConn"
+    },
+    "west": {
+      "r32": ["Arizona", "Utah State", "Wisconsin", "Arkansas", "BYU", "Gonzaga", "Miami FL", "Purdue"],
+      "s16": ["Arizona", "Arkansas", "Gonzaga", "Purdue"],
+      "e8": ["Arizona", "Purdue"],
+      "f4": "Arizona"
+    },
+    "midwest": {
+      "r32": ["Michigan", "St. Louis", "Texas Tech", "Alabama", "Tennessee", "Virginia", "Kentucky", "Iowa State"],
+      "s16": ["Michigan", "Alabama", "Virginia", "Iowa State"],
+      "e8": ["Michigan", "Iowa State"],
+      "f4": "Michigan"
+    },
+    "south": {
+      "r32": ["Florida", "Iowa", "Vanderbilt", "Nebraska", "VCU", "Illinois", "Saint Mary's", "Houston"],
+      "s16": ["Florida", "Nebraska", "Illinois", "Houston"],
+      "e8": ["Florida", "Houston"],
+      "f4": "Houston"
+    },
+    "finalFour": { "sf1": "UConn", "sf2": "Arizona", "sf3": "Michigan", "sf4": "Houston" },
+    "final": { "team1": "Arizona", "team2": "Michigan" },
+    "champion": "Michigan",
+    "rationale": "🔥 Big upset: UConn knocks out Duke in the East. Duke's one-and-done model gets exposed — UConn and Michigan State are both KenPom top-11 teams in that region.\n\n🏆 Champion: Michigan — softest 1-seed path, leads Big Ten at 88.4 PPG.\n\n💥 Sleeper: Houston out of the South over Florida."
+  },
+  "data": {
+    "label": "DATA BRACKET",
+    "accent": "#00b4d8",
+    "sub": "KenPom & efficiency driven",
+    "east": {
+      "r32": ["Duke", "Ohio State", "St. John's", "Kansas", "Louisville", "Michigan State", "UCLA", "UConn"],
+      "s16": ["Duke", "St. John's", "Michigan State", "UConn"],
+      "e8": ["Duke", "Michigan State"],
+      "f4": "Duke"
+    },
+    "west": {
+      "r32": ["Arizona", "Utah State", "Wisconsin", "Arkansas", "BYU", "Gonzaga", "Miami FL", "Purdue"],
+      "s16": ["Arizona", "Wisconsin", "Gonzaga", "Purdue"],
+      "e8": ["Arizona", "Purdue"],
+      "f4": "Arizona"
+    },
+    "midwest": {
+      "r32": ["Michigan", "Georgia", "Texas Tech", "Alabama", "Tennessee", "Virginia", "Kentucky", "Iowa State"],
+      "s16": ["Michigan", "Alabama", "Tennessee", "Iowa State"],
+      "e8": ["Michigan", "Iowa State"],
+      "f4": "Michigan"
+    },
+    "south": {
+      "r32": ["Florida", "Clemson", "Vanderbilt", "Nebraska", "N. Carolina", "Illinois", "Saint Mary's", "Houston"],
+      "s16": ["Florida", "Nebraska", "Illinois", "Houston"],
+      "e8": ["Florida", "Illinois"],
+      "f4": "Illinois"
+    },
+    "finalFour": { "sf1": "Duke", "sf2": "Arizona", "sf3": "Michigan", "sf4": "Illinois" },
+    "final": { "team1": "Duke", "team2": "Michigan" },
+    "champion": "Duke",
+    "rationale": "📊 Duke wins it all — historically high AdjEM, Cameron Boozer dominant, 23% simulation win rate.\n\n📊 Illinois dark horse in the South — #1 nationally in adjusted offensive efficiency.\n\n📊 Data follows chalk: top 2 seeds reach the Elite 8 in every region."
+  }
+}
+

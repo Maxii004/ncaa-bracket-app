@@ -1,0 +1,67 @@
+{
+  "year": 2026,
+  "gender": "womens",
+  "regions": [
+    {
+      "key": "fw1",
+      "name": "FORT WORTH 1",
+      "color": "#e879f9",
+      "matchups": [
+        { "top": { "seed": 1, "team": "UConn" }, "bot": { "seed": 16, "team": "UTSA" } },
+        { "top": { "seed": 8, "team": "Iowa State" }, "bot": { "seed": 9, "team": "Syracuse" } },
+        { "top": { "seed": 5, "team": "Maryland" }, "bot": { "seed": 12, "team": "Murray State" } },
+        { "top": { "seed": 4, "team": "N. Carolina" }, "bot": { "seed": 13, "team": "W. Illinois" } },
+        { "top": { "seed": 6, "team": "Notre Dame" }, "bot": { "seed": 11, "team": "Fairfield" } },
+        { "top": { "seed": 3, "team": "Ohio State" }, "bot": { "seed": 14, "team": "Howard" } },
+        { "top": { "seed": 7, "team": "Illinois" }, "bot": { "seed": 10, "team": "Colorado" } },
+        { "top": { "seed": 2, "team": "Vanderbilt" }, "bot": { "seed": 15, "team": "High Point" } }
+      ]
+    },
+    {
+      "key": "sac2",
+      "name": "SACRAMENTO 2",
+      "color": "#38bdf8",
+      "matchups": [
+        { "top": { "seed": 1, "team": "UCLA" }, "bot": { "seed": 16, "team": "Cal Baptist" } },
+        { "top": { "seed": 8, "team": "Okla. State" }, "bot": { "seed": 9, "team": "Princeton" } },
+        { "top": { "seed": 5, "team": "Ole Miss" }, "bot": { "seed": 12, "team": "Gonzaga" } },
+        { "top": { "seed": 4, "team": "Minnesota" }, "bot": { "seed": 13, "team": "Green Bay" } },
+        { "top": { "seed": 6, "team": "Baylor" }, "bot": { "seed": 11, "team": "Neb/Richmond" } },
+        { "top": { "seed": 3, "team": "Duke" }, "bot": { "seed": 14, "team": "Charleston" } },
+        { "top": { "seed": 7, "team": "Texas Tech" }, "bot": { "seed": 10, "team": "Villanova" } },
+        { "top": { "seed": 2, "team": "LSU" }, "bot": { "seed": 15, "team": "Jacksonville" } }
+      ]
+    },
+    {
+      "key": "fw3",
+      "name": "FORT WORTH 3",
+      "color": "#fb923c",
+      "matchups": [
+        { "top": { "seed": 1, "team": "Texas" }, "bot": { "seed": 16, "team": "MO St/SFA" } },
+        { "top": { "seed": 8, "team": "Oregon" }, "bot": { "seed": 9, "team": "Virginia Tech" } },
+        { "top": { "seed": 5, "team": "Kentucky" }, "bot": { "seed": 12, "team": "James Madison" } },
+        { "top": { "seed": 4, "team": "W. Virginia" }, "bot": { "seed": 13, "team": "Miami OH" } },
+        { "top": { "seed": 6, "team": "Alabama" }, "bot": { "seed": 11, "team": "Rhode Island" } },
+        { "top": { "seed": 3, "team": "Louisville" }, "bot": { "seed": 14, "team": "Vermont" } },
+        { "top": { "seed": 7, "team": "NC State" }, "bot": { "seed": 10, "team": "Tennessee" } },
+        { "top": { "seed": 2, "team": "Michigan" }, "bot": { "seed": 15, "team": "Holy Cross" } }
+      ]
+    },
+    {
+      "key": "sac4",
+      "name": "SACRAMENTO 4",
+      "color": "#4ade80",
+      "matchups": [
+        { "top": { "seed": 1, "team": "S. Carolina" }, "bot": { "seed": 16, "team": "So/Samford" } },
+        { "top": { "seed": 8, "team": "Clemson" }, "bot": { "seed": 9, "team": "USC" } },
+        { "top": { "seed": 5, "team": "Mich. State" }, "bot": { "seed": 12, "team": "Colo. State" } },
+        { "top": { "seed": 4, "team": "Oklahoma" }, "bot": { "seed": 13, "team": "Idaho" } },
+        { "top": { "seed": 6, "team": "Washington" }, "bot": { "seed": 11, "team": "S. Dak. St." } },
+        { "top": { "seed": 3, "team": "TCU" }, "bot": { "seed": 14, "team": "UC San Diego" } },
+        { "top": { "seed": 7, "team": "Georgia" }, "bot": { "seed": 10, "team": "Va/AZ State" } },
+        { "top": { "seed": 2, "team": "Iowa" }, "bot": { "seed": 15, "team": "Fairleigh D." } }
+      ]
+    }
+  ]
+}
+

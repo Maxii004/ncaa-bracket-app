@@ -1,0 +1,67 @@
+{
+  "year": 2026,
+  "gender": "mens",
+  "regions": [
+    {
+      "key": "east",
+      "name": "EAST",
+      "color": "#e94560",
+      "matchups": [
+        { "top": { "seed": 1, "team": "Duke" }, "bot": { "seed": 16, "team": "Siena" } },
+        { "top": { "seed": 8, "team": "Ohio State" }, "bot": { "seed": 9, "team": "TCU" } },
+        { "top": { "seed": 5, "team": "St. John's" }, "bot": { "seed": 12, "team": "Northern Iowa" } },
+        { "top": { "seed": 4, "team": "Kansas" }, "bot": { "seed": 13, "team": "Cal Baptist" } },
+        { "top": { "seed": 6, "team": "Louisville" }, "bot": { "seed": 11, "team": "South Florida" } },
+        { "top": { "seed": 3, "team": "Michigan State" }, "bot": { "seed": 14, "team": "N. Dakota St." } },
+        { "top": { "seed": 7, "team": "UCLA" }, "bot": { "seed": 10, "team": "UCF" } },
+        { "top": { "seed": 2, "team": "UConn" }, "bot": { "seed": 15, "team": "Furman" } }
+      ]
+    },
+    {
+      "key": "west",
+      "name": "WEST",
+      "color": "#00b4d8",
+      "matchups": [
+        { "top": { "seed": 1, "team": "Arizona" }, "bot": { "seed": 16, "team": "LIU" } },
+        { "top": { "seed": 8, "team": "Villanova" }, "bot": { "seed": 9, "team": "Utah State" } },
+        { "top": { "seed": 5, "team": "Wisconsin" }, "bot": { "seed": 12, "team": "High Point" } },
+        { "top": { "seed": 4, "team": "Arkansas" }, "bot": { "seed": 13, "team": "Hawaii" } },
+        { "top": { "seed": 6, "team": "BYU" }, "bot": { "seed": 11, "team": "Texas/NC State" } },
+        { "top": { "seed": 3, "team": "Gonzaga" }, "bot": { "seed": 14, "team": "Kennesaw St." } },
+        { "top": { "seed": 7, "team": "Miami FL" }, "bot": { "seed": 10, "team": "Missouri" } },
+        { "top": { "seed": 2, "team": "Purdue" }, "bot": { "seed": 15, "team": "Queens" } }
+      ]
+    },
+    {
+      "key": "midwest",
+      "name": "MIDWEST",
+      "color": "#f5a623",
+      "matchups": [
+        { "top": { "seed": 1, "team": "Michigan" }, "bot": { "seed": 16, "team": "UMBC/Howard" } },
+        { "top": { "seed": 8, "team": "Georgia" }, "bot": { "seed": 9, "team": "St. Louis" } },
+        { "top": { "seed": 5, "team": "Texas Tech" }, "bot": { "seed": 12, "team": "Akron" } },
+        { "top": { "seed": 4, "team": "Alabama" }, "bot": { "seed": 13, "team": "Hofstra" } },
+        { "top": { "seed": 6, "team": "Tennessee" }, "bot": { "seed": 11, "team": "SMU/Miami OH" } },
+        { "top": { "seed": 3, "team": "Virginia" }, "bot": { "seed": 14, "team": "Wright State" } },
+        { "top": { "seed": 7, "team": "Kentucky" }, "bot": { "seed": 10, "team": "Santa Clara" } },
+        { "top": { "seed": 2, "team": "Iowa State" }, "bot": { "seed": 15, "team": "Tennessee St." } }
+      ]
+    },
+    {
+      "key": "south",
+      "name": "SOUTH",
+      "color": "#4ade80",
+      "matchups": [
+        { "top": { "seed": 1, "team": "Florida" }, "bot": { "seed": 16, "team": "PV/Lehigh" } },
+        { "top": { "seed": 8, "team": "Clemson" }, "bot": { "seed": 9, "team": "Iowa" } },
+        { "top": { "seed": 5, "team": "Vanderbilt" }, "bot": { "seed": 12, "team": "McNeese" } },
+        { "top": { "seed": 4, "team": "Nebraska" }, "bot": { "seed": 13, "team": "Troy" } },
+        { "top": { "seed": 6, "team": "N. Carolina" }, "bot": { "seed": 11, "team": "VCU" } },
+        { "top": { "seed": 3, "team": "Illinois" }, "bot": { "seed": 14, "team": "Penn" } },
+        { "top": { "seed": 7, "team": "Saint Mary's" }, "bot": { "seed": 10, "team": "Texas A&M" } },
+        { "top": { "seed": 2, "team": "Houston" }, "bot": { "seed": 15, "team": "Idaho" } }
+      ]
+    }
+  ]
+}
+

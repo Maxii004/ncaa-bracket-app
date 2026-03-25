@@ -1,0 +1,102 @@
+{
+  "mineth": {
+    "label": "MINETH'S BRACKET",
+    "accent": "#a855f7",
+    "sub": "My picks",
+    "fw1": {
+      "r32": ["UConn", "Iowa State", "Maryland", "N. Carolina", "Notre Dame", "Ohio State", "Illinois", "Vanderbilt"],
+      "s16": ["UConn", "N. Carolina", "Notre Dame", "Vanderbilt"],
+      "e8": ["UConn", "Vanderbilt"],
+      "f4": "UConn"
+    },
+    "sac2": {
+      "r32": ["UCLA", "Okla. State", "Ole Miss", "Minnesota", "Baylor", "Duke", "Texas Tech", "LSU"],
+      "s16": ["UCLA", "Ole Miss", "Duke", "LSU"],
+      "e8": ["UCLA", "LSU"],
+      "f4": "UCLA"
+    },
+    "fw3": {
+      "r32": ["Texas", "Oregon", "Kentucky", "W. Virginia", "Alabama", "Louisville", "NC State", "Michigan"],
+      "s16": ["Texas", "Kentucky", "Alabama", "Michigan"],
+      "e8": ["Texas", "Michigan"],
+      "f4": "Michigan"
+    },
+    "sac4": {
+      "r32": ["S. Carolina", "USC", "Mich. State", "Oklahoma", "Washington", "TCU", "Georgia", "Iowa"],
+      "s16": ["S. Carolina", "Mich. State", "TCU", "Iowa"],
+      "e8": ["S. Carolina", "Iowa"],
+      "f4": "S. Carolina"
+    },
+    "finalFour": { "sf1": "UConn", "sf2": "UCLA", "sf3": "Michigan", "sf4": "S. Carolina" },
+    "final": { "team1": "UConn", "team2": "UCLA" },
+    "champion": "UConn",
+    "rationale": "📝 Azzi Fudd and KK Arnold repeating as champions. They're the best team in the country and have a great chance to repeat."
+  },
+  "claude": {
+    "label": "CLAUDE'S BRACKET",
+    "accent": "#f5a623",
+    "sub": "Gut + analysis picks",
+    "fw1": {
+      "r32": ["UConn", "Iowa State", "Maryland", "N. Carolina", "Notre Dame", "Ohio State", "Illinois", "Vanderbilt"],
+      "s16": ["UConn", "N. Carolina", "Ohio State", "Vanderbilt"],
+      "e8": ["UConn", "Ohio State"],
+      "f4": "UConn"
+    },
+    "sac2": {
+      "r32": ["UCLA", "Princeton", "Ole Miss", "Minnesota", "Baylor", "Duke", "Texas Tech", "LSU"],
+      "s16": ["UCLA", "Minnesota", "Duke", "LSU"],
+      "e8": ["UCLA", "LSU"],
+      "f4": "LSU"
+    },
+    "fw3": {
+      "r32": ["Texas", "Oregon", "Kentucky", "W. Virginia", "Alabama", "Louisville", "Tennessee", "Michigan"],
+      "s16": ["Texas", "W. Virginia", "Louisville", "Michigan"],
+      "e8": ["Texas", "Michigan"],
+      "f4": "Texas"
+    },
+    "sac4": {
+      "r32": ["S. Carolina", "Clemson", "Mich. State", "Oklahoma", "Washington", "TCU", "Georgia", "Iowa"],
+      "s16": ["S. Carolina", "Oklahoma", "TCU", "Iowa"],
+      "e8": ["S. Carolina", "Iowa"],
+      "f4": "Iowa"
+    },
+    "finalFour": { "sf1": "UConn", "sf2": "LSU", "sf3": "Texas", "sf4": "Iowa" },
+    "final": { "team1": "UConn", "team2": "LSU" },
+    "champion": "UConn",
+    "rationale": "🏆 Champion: UConn — 34-0, top defense in the country (50.4 ppg allowed). The data and eye test agree.\n\n🔥 LSU out of Sacramento — 94.5 PPG leads the country. Their offense can outscore UCLA on a hot night.\n\n💥 Upset: Iowa over South Carolina — the Gamecocks already lost to Oklahoma this season."
+  },
+  "data": {
+    "label": "DATA BRACKET",
+    "accent": "#00b4d8",
+    "sub": "Efficiency & record driven",
+    "fw1": {
+      "r32": ["UConn", "Iowa State", "Maryland", "N. Carolina", "Notre Dame", "Ohio State", "Illinois", "Vanderbilt"],
+      "s16": ["UConn", "N. Carolina", "Ohio State", "Vanderbilt"],
+      "e8": ["UConn", "Vanderbilt"],
+      "f4": "UConn"
+    },
+    "sac2": {
+      "r32": ["UCLA", "Okla. State", "Ole Miss", "Minnesota", "Baylor", "Duke", "Texas Tech", "LSU"],
+      "s16": ["UCLA", "Minnesota", "Duke", "LSU"],
+      "e8": ["UCLA", "LSU"],
+      "f4": "UCLA"
+    },
+    "fw3": {
+      "r32": ["Texas", "Oregon", "Kentucky", "W. Virginia", "Alabama", "Louisville", "Tennessee", "Michigan"],
+      "s16": ["Texas", "W. Virginia", "Louisville", "Michigan"],
+      "e8": ["Texas", "Michigan"],
+      "f4": "Texas"
+    },
+    "sac4": {
+      "r32": ["S. Carolina", "Clemson", "Mich. State", "Oklahoma", "Washington", "TCU", "Georgia", "Iowa"],
+      "s16": ["S. Carolina", "Oklahoma", "TCU", "Iowa"],
+      "e8": ["S. Carolina", "Iowa"],
+      "f4": "S. Carolina"
+    },
+    "finalFour": { "sf1": "UConn", "sf2": "UCLA", "sf3": "Texas", "sf4": "S. Carolina" },
+    "final": { "team1": "UConn", "team2": "Texas" },
+    "champion": "UConn",
+    "rationale": "📊 Champion: UConn — 34-0, #1 scoring defense (50.4 ppg), -275 tournament favourites, largest in 4 years.\n\n📊 Final: UConn vs Texas — Texas beat South Carolina in the SEC final, 31-3, elite defensive metrics.\n\n📊 South Carolina survives over Iowa — 31-3 record and program pedigree in March too strong to fade."
+  }
+}
+
