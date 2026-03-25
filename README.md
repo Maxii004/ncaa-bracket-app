@@ -239,7 +239,7 @@ npm run build
 
 This app is paired with the **NCAA Bracket Analysis** Python repo, which generates the efficiency data and picks that feed into the JSON files here.
 
-→ [ncaa-bracket-analysis](https://github.com/your-username/ncaa-bracket-analysis)
+→ [ncaa-bracket-analysis](https://github.com/Maxii004/ncaa-bracket-analysis)
 
 ---
 
